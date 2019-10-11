@@ -13,7 +13,7 @@ s2n is a C99 implementation of the TLS/SSL protocols that is designed to be simp
 
 ## Getting Started
 1. Fork s2n on GitHub
-2. Run the following commands on either Ubuntu or Mac OSX.
+2. Run the following commands on either Ubuntu 16 or Mac OSX.
 ```
 git clone https://github.com/${YOUR_GITHUB_ACCOUNT_NAME}/s2n.git
 cd s2n
